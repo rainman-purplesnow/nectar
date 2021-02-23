@@ -1,0 +1,4 @@
+org.springframework.context.ApplicationContextInitializer=\
+org.tieland.nectar.NectarRibbonEagerApplicationContextInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.tieland.nectar.NectarRibbonEagerAutoConfiguration
